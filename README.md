@@ -1,2 +1,25 @@
 # Abyss
-Abyss is a mid injection client using JNI in c++
+This repo is used to proof i dont rat anyone
+You dont need the Injector cause its bad
+just inject with Fate or idk.
+
+# About the launcher
+Download the release/tag Loader
+this loader will auto download the latest
+github released Abyss dll into the following path:
+C:\Users\UrUser\AppData\Roaming\.minecraft\libraries\Abyss.dll
+
+# About me ratting (fake news)
+Smellon just said that i should use his launcher, and it also made sense for me
+Canse he said then noone can crack it easily and get the dll
+And he wanted it to be like this
+Because smellon doesnt want his code to be open source
+He also said he doesnt want other pples to rat the dll and put it again on youtube
+Which also made sense to me. So he asked to use his launcher and so i did
+When you would check the source of abyss u can see theres no rat
+But like i said smellon doesnt want it to be open source
+Btw the old injector code is public because smellon cracked it in under 2 minutes
+So please understand that if the injecotr is really ratted its not my fault because its not mine
+For le i litterly did nothing wrong and then ill just get reported to github for no reason
+This is so time wasting and annoying ill just fuck about smellon and just make abyss like i wanted open source
+But now ill just do it anyways ill just remove securitty checks from the .dll and then hopefully everything is fine
