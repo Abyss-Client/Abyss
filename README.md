@@ -2,6 +2,7 @@
 This repo is used to proof i dont rat anyone
 You dont need the Injector cause its bad
 just inject with Fate or idk.
+Please star this. 🙏
 
 # About the launcher
 Download the release/tag Loader
