@@ -1,7 +1,6 @@
 
-![abyss](https://github.com/Abyss-Client/Abyss/assets/151081838/7de4e9a9-552f-44b1-a231-3bd0f2f21ceb)
+# Abyss![abyss_small](https://github.com/Abyss-Client/Abyss/assets/151081838/48c151ce-8fce-44fb-b6f9-a5672b7a49a0)
 
-# Abyss
 This repo is used to proof i dont rat anyone
 You dont need the Injector cause its bad
 just inject with Fate or idk.
