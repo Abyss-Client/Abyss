@@ -1,18 +1,18 @@
 ![abyss_small](https://github.com/Abyss-Client/Abyss/assets/151081838/7b750e2c-16fd-4602-baaf-37651d6f576d)
 
 # Abyss
-This repo is used to proof i dont rat anyone
+This repo is used to proof that i dont rat anyone
 You dont need the Injector cause its bad
 just inject with Fate or idk.
 Please star this. 🙏
 
-# About the launcher
+## About the launcher
 Download the release/tag Loader
 this loader will auto download the latest
 github released Abyss dll into the following path:
-C:\Users\UrUser\AppData\Roaming\.minecraft\libraries\Abyss.dll
+C:\Users\%USERNAME%\AppData\Roaming\.minecraft\libraries\Abyss.dll
 
-# About me ratting (fake news)
+## About me ratting (fake news)
 Smellon just said that i should use his launcher, and it also made sense for me
 Canse he said then noone can crack it easily and get the dll
 And he wanted it to be like this
