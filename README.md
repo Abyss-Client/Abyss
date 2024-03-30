@@ -25,3 +25,6 @@ So please understand that if the injecotr is really ratted its not my fault beca
 For le i litterly did nothing wrong and then ill just get reported to github for no reason
 This is so time wasting and annoying ill just fuck about smellon and just make abyss like i wanted open source
 But now ill just do it anyways ill just remove securitty checks from the .dll and then hopefully everything is fine
+
+# Discord Server:
+<a href="https://discord.gg/7JXXvkufJK"><img src="https://invidget.switchblade.xyz/7JXXvkufJK" alt="https://discord.gg/7JXXvkufJK"/></a>
