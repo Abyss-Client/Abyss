@@ -11,7 +11,7 @@ Please star this. 🙏
 Download the release/tag Loader,
 this loader will auto download the latest
 github released Abyss dll into the following path:
-`C:\Users\%USERNAME%\AppData\Roaming\.minecraft\libraries\Abyss.dll.`
+`java C:\Users\%USERNAME%\AppData\Roaming\.minecraft\libraries\Abyss.dll.`
 If the loader is tweaking then feel free to install the latest Abyss.dll and drag it into the path above this text
 
 ## About me ratting (fake news)
