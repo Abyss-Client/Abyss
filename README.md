@@ -1,5 +1,4 @@
-# Because PC viruses may use simular code to infect computers this might get reconized as a virus.
-# BUT Abyss does not contain any viruses!
+## Because PC viruses may use simular code to infect computers this might get reconized as a virus. BUT Abyss does not contain any viruses!
 
 ![abyss_small](https://github.com/Abyss-Client/Abyss/assets/151081838/7b750e2c-16fd-4602-baaf-37651d6f576d)
 
