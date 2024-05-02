@@ -7,11 +7,12 @@ This repo is used to proof that i dont rat anyone.
 You dont need the Injector cause its bad, just inject with Fate or idk.
 Please star this. 🙏
 
-## About the launcher
+## About the loader
 Download the release/tag Loader,
 this loader will auto download the latest
 github released Abyss dll into the following path:
-C:\Users\%USERNAME%\AppData\Roaming\.minecraft\libraries\Abyss.dll.
+```C:\Users\%USERNAME%\AppData\Roaming\.minecraft\libraries\Abyss.dll.```
+If the loader is tweaking then feel free to install the latest Abyss.dll and drag it into the path above this text
 
 ## About me ratting (fake news)
 Smellon just said that i should use his launcher, and it also made sense for me
