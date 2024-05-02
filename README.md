@@ -8,9 +8,8 @@ You dont need the Injector cause its bad, just inject with Fate or idk.
 Please star this. 🙏
 
 ## About the loader
-Download the release/tag Loader,
-this loader will auto download the latest
-github released Abyss dll into the following path:
+Download the release/tag Loader, this loader will auto download the latest github released Abyss dll into the following path:
+# IF it sais "Error: Could not create remote thread!" then try: `Abyss Injector v1.5`
 ```java
 C:\Users\%USERNAME%\AppData\Roaming\.minecraft\libraries\Abyss.dll.
 ```
