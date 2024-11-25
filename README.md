@@ -6,3 +6,6 @@
 This repo is used to proof that i dont rat anyone.
 You dont need the Injector cause its bad, just inject with Fate or idk.
 Please star this. 🙏
+
+# Discord Server:
+<a href="https://discord.gg/7JXXvkufJK"><img src="https://invidget.switchblade.xyz/7JXXvkufJK" alt="https://discord.gg/7JXXvkufJK"/></a>
